@@ -1,0 +1,35 @@
+HTML5 - Introdução
+
+Aprenda o que é o HTML e o CSS
+Entenda a estrutura básica de um arquivo HTML
+Aprenda a usar cada uma das diferentes tags do HTML
+Utilize o navegador para inspecionar elementos e encontrar bugs
+Aprenda a definir estilos para elementos usando o CSS
+Desenvolva páginas Web
+
+Curso de Java
+
+JVM? JDK? JRE? O que são essas siglas?
+Compilando e executando código java
+Aprenda a usar Eclipse
+Variáveis e controle de fluxo
+Conheça os principais tipos do Java
+
+Curso de PHP
+
+De seus primeiros passos com PHP
+Conecte a sua aplicação com o banco de dados
+Aprenda quando refatorar código e trabalhar com funções
+Entenda a diferença entre os principais métodos HTTP
+Trabalhe com relacionamentos do banco de dados
+Suba aplicação para um servidor em produção
+
+Curso de Python
+
+Use Factory para criar objetos
+Aprenda quando é melhor entre o Factory e o Builder
+Salve estados de objetos com Memento
+Crie novas operações com o Visitor
+Facilite usando uma filas de comandos com Comand
+Entenda como funciona uma árvore de interpretação
+
